@@ -3,7 +3,7 @@ This is a page where I'll share some information about myself and the work I am 
 
 ## Work with Penguins
 
-This was the first data set I analyzed while learning how to use R. The analysis we ran used a small subset of 44 penguins. My analysis of that data is [here](https://melaniedube.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html).
+This was the first data set I analyzed while learning how to use R. The analysis we ran used a small subset of 44 penguins. My analysis of that data is [here](https://melaniedube.github.io/BioStatisticsAnalysis/PalmerPenguinsAnalysis.html). 
 
 
 ## Work with Volcanic Eruptions
