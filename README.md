@@ -11,4 +11,4 @@ This was the first data set I analyzed while learning how to use R. The analysis
 This was the second data analysis I conducted in Bioinformatics class. I chose to work with a data set on volcanic eruptions, which was a much larger set than my original analysis with pengiuins. My analysis is linked [here](https://melaniedube.github.io/BioStatisticsAnalysis/VolcanicEruptionsAnalysis.html).
 
 ## Work in Bioinformatics
-I began working on a Bioinformatics report, attempting to find the origin of replication for different genomes. The report is linked [here](https://melaniedube.github.io/
+I began working on a Bioinformatics report, attempting to find the origin of replication for different genomes. The report is linked [here](https://melaniedube.github.io/BIO4ST1/Replication_Melanie_Dube.html).
