@@ -4,7 +4,7 @@ I am currently finishing up my senior year at Southern New Hampshire University,
 ## Research Project
 [Here](https://hdl.handle.net/10474/3709) is the link to my group research project, a study and analysis of the Impact of Chytrid Fungus on New Hampshire Frog Populations. 
 
-#
+
 
 # Biostatistics
 Below are some of the projects I have done in Biostatistics.
@@ -21,7 +21,7 @@ This was the second data analysis I conducted in Bioinformatics class. I chose t
 ## Work with Australian Fires
 This was an additional analysis that I conducted as part of our final project for Bioinformatics class. This data set was on fires in Australia. My analysis is linked [here]().
 
-#
+
 
 # Bioinformatics
 This was my first analysis specifically in bioinformatics. The goal of this report was to attempt to find the origin of replication for different genomes. The report with each of its different parts is linked [here](https://agmath.github.io/BIO4ST1_Group2/Replication_Melanie_Dube.html).
