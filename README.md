@@ -1,5 +1,5 @@
 # About Me
-I am currently finishing up my senior year at Southern New Hampshire University, and will be graduating in April of 2023 with a Bachelors of Science in Biology and minors in Psychology, Neuroscience, and Research. 
+I am currently finishing up my senior year at Southern New Hampshire University, and will be graduating in April of 2023 with a Bachelor of Science in Biology and minors in Psychology, Neuroscience, and Research. 
 
 ## Research Project
 [Here](https://hdl.handle.net/10474/3709) is the link to my group research project, a study and analysis of the Impact of Chytrid Fungus on New Hampshire Frog Populations. 
