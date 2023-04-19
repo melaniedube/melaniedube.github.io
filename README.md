@@ -19,7 +19,7 @@ This was the first data set I analyzed while learning how to use R. The analysis
 This was the second data analysis I conducted in Bioinformatics class. I chose to work with a data set on volcanic eruptions, which was a much larger set than my original analysis with pengiuins. My analysis is linked [here](https://melaniedube.github.io/BioStatisticsAnalysis/VolcanicEruptionsAnalysis.html).
 
 ## Work with Australian Fires
-This was an additional analysis that I conducted as part of our final project for Bioinformatics class. This data set was on fires in Australia. My analysis is linked [here](https://melaniedube.github.io/BioStatisticsAnalysis/AustralianFires.html).
+This was an additional analysis that I conducted as part of our final project for Bioinformatics class. This data set was on fires in Australia. My analysis is linked [here](https://melaniedube.github.io/BioStatisticsAnalysis/AustralianFires.nb.html).
 
 
 
